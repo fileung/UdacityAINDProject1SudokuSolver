@@ -1,0 +1,8 @@
+official
+$python -m unittest -v
+$udacity submit
+
+my custom run, to get report in txt file for easier analysis / debug
+$python -m unittest -v > report.txt
+
+
